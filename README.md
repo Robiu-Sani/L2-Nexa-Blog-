@@ -1,4 +1,5 @@
 # NexaBlog-Starter-Pack
+<img src='/1.png' />
 
 ## Installation:
 
